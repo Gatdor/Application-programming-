@@ -132,9 +132,3 @@ This repository contains a series of C# code examples and explanations covering 
 
 - **Top-Down Approach:** Focuses on planning and defining high-level functionality first. Example: Complex application requiring clear module definitions.
 - **Bottom-Up Approach:** Builds small, independent components first, then integrates them. Example: Modular library development with testable units.
-
-## Summary
-
-This repository showcases a diverse set of C# programming examples that demonstrate key concepts, including basic operations, string handling, object-oriented principles, and advanced features like concurrency, file operations, and design approaches. Each example includes explanations to help you understand and apply these concepts effectively in your projects.
-
-Feel free to explore, modify, and expand upon these examples to suit your needs. Happy coding!
