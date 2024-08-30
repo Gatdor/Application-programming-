@@ -87,6 +87,4 @@ This repository contains C# code examples that cover fundamental and advanced pr
 
 ## Summary
 
-This repository provides a range of C# code examples that illustrate essential programming concepts, from basic operations and string handling to advanced features like abstraction, interfaces, and different project design approaches. Use these examples as a reference to enhance your understanding and apply these concepts in your own projects.
-
-Feel free to explore, modify, and expand upon these examples as needed. Happy coding!
+This repository provides a range of C# code examples that illustrate essential programming concepts, from basic operations and string handling to advanced features like abstraction, interfaces, and different project design approaches. 
